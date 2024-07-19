@@ -1,9 +1,4 @@
 # hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+دوش دیدم ملائک در میخانه زندند   گل آدم بسرشتند و به پیانه زندند
 
-This repository is built step by step in the tutorial.
-This text add by GitHub : Hello GitHub.
- This text add by GitHub for Pull : my Pull
-
-This text is for add local branch to GitHub. 
+این حسین کیست که عالم همه دیوانه اوست
